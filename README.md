@@ -1,5 +1,5 @@
 # Photosphere.DependencyInjection.xUnit
-xUnit extension for support Photosphere.DependencyInjection.
+[xUnit](https://github.com/xunit/xunit) extension for support [Photosphere.DependencyInjection](https://github.com/sunloving/photosphere-di).
 
 ## Status
 [![Windows build Status](https://ci.appveyor.com/api/projects/status/github/sunloving/photosphere-di-xunit?retina=true&svg=true)](https://ci.appveyor.com/project/sunloving/photosphere-di-xunit)
