@@ -1,14 +1,14 @@
 skip_commits:
   message: /((Create.*\.md)|(Update.*\.md))/
 
-version: 0.3.0.{build}
+version: 0.1.0.{build}
 
 configuration: Release
 
 environment:
   sourcesFolder: src
-  solutionName: photosphere-di.sln
-  projectName: Photosphere.DependencyInjection
+  solutionName: photosphere-di-xunit.sln
+  projectName: Photosphere.DependencyInjection.xUnit
 
 assembly_info:
   patch: true
