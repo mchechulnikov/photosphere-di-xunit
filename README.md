@@ -8,7 +8,9 @@
 
 
 ## Install
-Will be available throught NuGet soon!
+```
+PM> Install-Package Photosphere.DependencyInjection.xUnit
+```
 
 ## How to use
 Just use `InjectDependency` instead `InlineData` into your theories.
