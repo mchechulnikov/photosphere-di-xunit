@@ -6,10 +6,14 @@
     <authors>Maxim Chechulnikov</authors>
     <description>Simple dependency injection framework based on emitting CIL code. Extension for xUnit.</description>
     <language>en-US</language>
-    <projectUrl>https://github.com/sunloving/photosphere-di</projectUrl>
-    <licenseUrl>https://github.com/sunloving/photosphere-di/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/sunloving/photosphere-di-xunit</projectUrl>
+    <licenseUrl>https://github.com/sunloving/photosphere-di-xunit/blob/master/LICENSE</licenseUrl>
   </metadata>
   <files>
     <file src="bin\Release\*.dll" target="lib" />
   </files>
+  <dependencies>
+    <dependency id="Photosphere.DependencyInjection" />
+    <dependency id="xUnit" />
+  </dependencies>
 </package>
