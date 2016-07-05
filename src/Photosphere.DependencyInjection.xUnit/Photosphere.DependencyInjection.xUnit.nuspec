@@ -8,12 +8,12 @@
     <language>en-US</language>
     <projectUrl>https://github.com/sunloving/photosphere-di-xunit</projectUrl>
     <licenseUrl>https://github.com/sunloving/photosphere-di-xunit/blob/master/LICENSE</licenseUrl>
+    <dependencies>
+      <dependency id="Photosphere.DependencyInjection" />
+      <dependency id="xUnit" />
+    </dependencies>
   </metadata>
   <files>
     <file src="bin\Release\*.dll" target="lib" />
   </files>
-  <dependencies>
-    <dependency id="Photosphere.DependencyInjection" />
-    <dependency id="xUnit" />
-  </dependencies>
 </package>
