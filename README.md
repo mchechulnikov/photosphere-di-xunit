@@ -1,6 +1,12 @@
 # Photosphere.DependencyInjection.xUnit
 xUnit extension for support Photosphere.DependencyInjection.
 
+## Status
+[![Windows build Status](https://ci.appveyor.com/api/projects/status/github/sunloving/photosphere-di-xunit?retina=true&svg=true)](https://ci.appveyor.com/project/sunloving/photosphere-di-xunit)
+[![NuGet](https://img.shields.io/nuget/v/Photosphere.DependencyInjection.xUnit.svg)](https://www.nuget.org/packages/Photosphere.DependencyInjection.xUnit/)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/sunloving/photosphere-di-xunit/blob/master/LICENSE)
+
+
 ## Install
 Will be available throught NuGet soon!
 
